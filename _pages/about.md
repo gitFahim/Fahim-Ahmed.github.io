@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year (2022-now) Ph.D. candidate in Computer Science at the University of Louisiana at Lafayette and have the fortune to be advised by [Prof. Li Chen](https://lichenut.github.io/). Before that, I received my bachelor's degree in Computer Science and Engineering at Rajshahi University of Engineering and Technology in 2017. I have more than four years of working experience in different companies.
+I am working as a Software Engineer for AI training data (remote) at Scale AI in San Francisco, California, USA. Additionally, I am working remotely as a teaching assistant for a professor at Thaddeus Stevens College of Technology in Pennsylvania. Previously, I worked as an intern at Samsung R&D Institute Bangladesh.
 
-My primary research interest lies in Federated Learning, Deep Learning, and Generative AI. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications.
+My primary research interests are in AI4SE, Smell Detection (code and community smells), Generative AI, and HCI. I’m particularly focused on how Generative AI can enhance human-computer interaction and drive innovative solutions, while also exploring smell detection to improve code quality and team collaboration.
 
-> **I am actively looking for a research assistantship position;Please kindly find my [resume](/files/CV_AC_Fahim_Ahmed.pdf).**
+> **I am actively looking for a research assistantship position;Please kindly find my [resume](https://drive.google.com/file/d/1zp5OiEaAfiNKJQQnSbyB8KZG4s7A6zZV/view?usp=sharing).**
 
 # Contact
 
-- Email: fahim793477@gmail.com | bsse0932@iit.du.ac.bd
+- Email: fahim793477@gmail.com, bsse0932@iit.du.ac.bd
 - Location: Dhaka, Bangladesh
