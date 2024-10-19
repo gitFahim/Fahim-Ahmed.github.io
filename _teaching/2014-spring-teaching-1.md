@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistantship (remote)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Professional Course"
+#permalink: /teaching/2014-spring-teaching-1
+venue: "THADDEUS STEVENS COLLEGE OF TECHNOLOGY"
+date: 2024-06-01
+location: "750 King ST Lancaster, Pennsylvania 17602, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Courses: CIS 111 Introduction to Computer Applications, CSET 222 Database Management System
+Responsibilities: Designing comprehensive presentation slides, enhancing visual engagement, and aiding in the simplification of
+complex concepts. Detailed assignments focusing on critical thinking and application of theory materials of the course
 
-Heading 1
-======
+# Heading 1
 
-Heading 2
-======
+# Heading 2
 
-Heading 3
-======
+# Heading 3
