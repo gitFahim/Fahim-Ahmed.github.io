@@ -14,6 +14,10 @@ My primary research interests are in Human-Computer Interaction, Generative AI, 
 
 > **I am actively looking for a research assistantship position;Please kindly find my [resume](https://drive.google.com/file/d/1zp5OiEaAfiNKJQQnSbyB8KZG4s7A6zZV/view?usp=sharing).**
 
+# What's New!
+
+- 09/2024: Our abstract **Leveraging Machine Learning for Thunderstorm Prediction in Northeastern (NE) Region of Bangladesh: Enhancing Community Preparedness with Advanced Location Detection Technology** got accepted in **American Geophysical Union (AGU) conference annual meeting, 2024**.
+
 # Contact
 
 - Email: fahim793477@gmail.com, bsse0932@iit.du.ac.bd
