@@ -8,11 +8,9 @@ date: 2024-06-01
 location: "750 King ST Lancaster, Pennsylvania 17602, United States"
 ---
 
-# CIS 111 Introduction to Computer Applications
+# CIS 111 Introduction to Computer Applications, CSET 222 Database Management System
 
 Designing comprehensive presentation slides, enhancing visual engagement, and aiding in the simplification of
 complex concepts.
-
-# CSET 222 Database Management System
 
 Detailed assignments focusing on critical thinking and application of theory materials of the course

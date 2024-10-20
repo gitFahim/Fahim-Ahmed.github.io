@@ -10,16 +10,16 @@ main:
     url: https://drive.google.com/file/d/1zp5OiEaAfiNKJQQnSbyB8KZG4s7A6zZV/view?usp=sharing
 
   - title: "Publications"
-    url: /publications/
+    url: #/publications/
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "Portfolio"
-    url: /portfolio/
+    url: #/portfolio/
 
   - title: "Achievements"
-    url: /year-archive/
+    url: #/talks/
 
   - title: "Blog Posts"
     url: /year-archive/
