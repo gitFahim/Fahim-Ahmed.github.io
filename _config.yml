@@ -40,13 +40,13 @@ author:
   researchgate: # URL
 
   # Repositories and software development
-  github: "https://github.com/gitFahim"
+  github: "gitFahim"
   kaggle: # Username
 
   # Social media
   facebook: # Username
   linkedin: # Username
-  medium: # URL
+  medium: @fahim793477
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
