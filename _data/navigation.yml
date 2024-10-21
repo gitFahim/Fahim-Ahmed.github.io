@@ -9,13 +9,13 @@ main:
     #url: /cv/
     url: https://drive.google.com/file/d/1zp5OiEaAfiNKJQQnSbyB8KZG4s7A6zZV/view?usp=sharing
 
-  - title: "Publications"
+  - title: #"Publications"
     url: #/publications/
 
-  - title: "Teaching"
+  - title: "Experience"
     url: /teaching/
 
-  - title: "Portfolio"
+  - title: #"Portfolio"
     url: #/portfolio/
 
   - title: "Achievements"
