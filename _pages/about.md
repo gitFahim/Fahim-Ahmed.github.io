@@ -12,7 +12,7 @@ I am working as a Software Engineer for AI training data (remote) at Scale AI in
 
 My primary research interests are in Human-Computer Interaction, Generative AI, Accessibility, Smell Detection, and Learning Analytics. I’m particularly focused on how Generative AI and HCI can enhance user experiences, improve accessibility, and enable more effective detection of code and community smells, while leveraging learning analytics to drive data-informed improvements in education and software development. I am also part of a research community called - "Intelligent Systems and HCI Research Group".
 
-> **I am actively looking for a research assistantship position;Please kindly find my [resume](https://drive.google.com/file/d/1zp5OiEaAfiNKJQQnSbyB8KZG4s7A6zZV/view?usp=sharing).**
+> **I am actively looking for a research assistantship position;Please kindly find my [CV](https://drive.google.com/file/d/1iLFUxbmGIjx-PZdd12Ts0mImBVTBNRRY/view?usp=sharing).**
 
 # What's New!
 
